@@ -39,3 +39,4 @@ Or 1 - docker pull pipitodocker2284/dockerhub:myfirstimagepush
 
 2 - go to cli and write "python manage.py runserver"
 
+# App Preview :
