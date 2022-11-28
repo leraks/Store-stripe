@@ -1,8 +1,8 @@
-# Chat
+# Store-stripe
 Cloning the repository
 --> Clone the repository using the command below :
 
-git clone https://github.com/leraks/Chat.git
+git clone https://github.com/leraks/Store-stripe.git
 
 
 --> Create a virtual environment :
