@@ -25,3 +25,4 @@ pip install -r requirements.txt
 python manage.py runserver <br>
 ⚠ Then, the development server will be started at http://127.0.0.1:8000/
 
+# Docker run
