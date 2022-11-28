@@ -26,3 +26,6 @@ python manage.py runserver <br>
 ⚠ Then, the development server will be started at http://127.0.0.1:8000/
 
 # Docker run
+There are Docker files in the root folder, to run them, just install Docker , go to cmd and write these 2 commands
+-->docker build .
+-->docker-compose up
