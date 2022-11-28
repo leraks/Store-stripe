@@ -32,6 +32,8 @@ There are Docker files in the root folder, to run them, just install Docker , go
 
 ⚠docker-compose up
 
+
+⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠
 Or 
 docker pull pipitodocker2284/dockerhub:myfirstimagepush
 
