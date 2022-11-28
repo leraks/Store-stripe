@@ -35,7 +35,7 @@ There are Docker files in the root folder, to run them, just install Docker , go
 
 ⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠
 
-Or docker pull pipitodocker2284/dockerhub:myfirstimagepush
+Or 1 - docker pull pipitodocker2284/dockerhub:myfirstimagepush
 
-go to cli and write "python manage.py runserver"
+2 - go to cli and write "python manage.py runserver"
 
