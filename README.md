@@ -27,5 +27,5 @@ python manage.py runserver <br>
 
 # Docker run
 There are Docker files in the root folder, to run them, just install Docker , go to cmd and write these 2 commands
--->docker build .
--->docker-compose up
+--> docker build .
+--> docker-compose up
