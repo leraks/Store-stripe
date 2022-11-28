@@ -1,0 +1,19 @@
+{% extends 'basic_app.html' %}
+{% load static %}
+{% block stylesheet %}<link rel="stylesheet" href="{% static 'market/market_style.css' %}" /> {% endblock %}
+
+
+{% block content %}
+    <div class="success">
+        <div class="block">
+            <div class="block-info">
+                <div class=info>
+                    <h1>Заказ успешно оплачен</h1>
+                    <img src="{% static 'img/success.png' %}" alt="">
+                    <a href="{% url 'products' %}">Вернуться на главную страницу</a>
+                </div>
+            </div>
+        </div>
+
+    </div>
+{% endblock %}

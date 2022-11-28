@@ -1,0 +1,8 @@
+body {
+    margin: 0px;
+}
+
+.product img{
+    max-width:376px;
+    width:100%;
+}
